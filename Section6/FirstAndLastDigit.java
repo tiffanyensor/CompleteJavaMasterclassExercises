@@ -7,7 +7,7 @@ using a loop and return the sum of the first and last digit of that number.
 
 package com.company;
 
-public class Main {
+public class FirstAndLastDigit {
 
     public static void main(String[] args) {
         System.out.println(sumFirstAndLastDigit(252));
