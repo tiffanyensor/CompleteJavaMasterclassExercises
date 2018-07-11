@@ -13,7 +13,7 @@ The greatest common divisor is 6 since both 12 and 30 can be divided by 6, and t
 
 package com.company;
 
-public class Main {
+public class GreatestCommonDivisor {
 
     public static void main(String[] args) {
         System.out.println(getGreatestCommonDivisor(25,15));
