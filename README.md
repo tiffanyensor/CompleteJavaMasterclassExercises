@@ -30,6 +30,9 @@ Exercise 9 - Equality Printer
 
 Exercise 10 - Playing Cat
 
+Challenge: Seconds and Minutes
+
+
 -------------------------------------------------------------------
 SECTION 6 - Control Flow Statements
 -------------------------------------------------------------------
