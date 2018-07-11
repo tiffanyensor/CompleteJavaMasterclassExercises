@@ -14,7 +14,7 @@ Be careful about leap years they have 29 days in month 2 (February).
 
 package com.company;
 
-public class Main {
+public class NumberDaysInMonth {
 
     public static void main(String[] args) {
         System.out.println(getDaysInMonth(1,2020));
