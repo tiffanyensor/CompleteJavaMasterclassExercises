@@ -1,6 +1,14 @@
+/*
+We'll say that a number is "teen" if it is in the range 13 -19 (inclusive).
+Write a method hasTeen with 3 parameters of type int.
+The method should return boolean and it needs to return true if one of parameters is in range 13(inclusive) - 19 (inclusive).
+Otherwise return false.
+*/
+
+
 package com.company;
 
-public class Main {
+public class TeenNumberChecker {
 
     public static void main(String[] args) {
         System.out.println(hasTeen(9, 99, 19));
