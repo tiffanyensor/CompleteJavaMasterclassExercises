@@ -8,7 +8,7 @@ If the parameter kiloBytes is < 0 then print instead the text "Invalid Valu
 
 package com.company;
 
-public class Main {
+public class MegabytesConverter {
 
     public static void main(String[] args) {
 	    printMegaBytesAndKiloBytes(5765);
