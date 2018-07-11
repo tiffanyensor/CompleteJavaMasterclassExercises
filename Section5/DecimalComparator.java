@@ -6,7 +6,7 @@ Otherwise return false.
 
 package com.company;
 
-public class Main {
+public class DecimalComparator {
 
     public static void main(String[] args) {
         System.out.println(areEqualByThreeDecimalPlaces(-3.1756, -3.175));
