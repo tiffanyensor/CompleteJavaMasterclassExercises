@@ -6,7 +6,7 @@ otherwise it should return false.  
 
 package com.company;
 
-public class Main {
+public class NumberPalindrome {
 
     public static void main(String[] args) {
 	    System.out.println(isPalindrome(45));
