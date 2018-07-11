@@ -11,7 +11,7 @@ You can use an if-else statement or a the switch statement to solve this challe
 
 package com.company;
 
-public class Main {
+public class NumberInWord {
 
     public static void main(String[] args) {
         printNumberInWord(4);
