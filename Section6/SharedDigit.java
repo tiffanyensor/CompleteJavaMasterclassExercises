@@ -8,7 +8,7 @@ otherwise, the method should return false.
 
 package com.company;
 
-public class Main {
+public class SharedDigit {
 
     public static void main(String[] args) {
         System.out.println(hasSharedDigit(12,23));
