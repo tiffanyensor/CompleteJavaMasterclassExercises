@@ -10,7 +10,7 @@ If those conditions are not satisfied return -1 from the method to indicate in
 
 package com.company;
 
-public class Main {
+public class SumOdd {
 
     public static void main(String[] args) {
         System.out.println(-5%2);
