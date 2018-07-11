@@ -9,9 +9,9 @@ A year is a leap year if it is divisible by 4 but not by 100, or it is divisible
 
 package com.company;
 
-public class Main {
+public class LeapYear {
 
-    public static void LeapYear(String[] args) {
+    public static void main(String[] args) {
 	    System.out.println(isLeapYear(-1600));
         System.out.println(isLeapYear(1600));
         System.out.println(isLeapYear(2017));
